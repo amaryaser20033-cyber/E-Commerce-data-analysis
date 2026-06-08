@@ -54,17 +54,16 @@ Examined purchasing behavior across **Desktop, Mobile, and Tablet** users, as we
 
 ## Key Insights
 
-> 📊 **Quick Wins & Highlights:**
-> * Total Gross Sales: **>$126 Million**
-> * Total Net Revenue (After Discounts): **~$94.6 Million**
-
+* Total Gross Sales: **>$126 Million**
+* Total Net Revenue (After Discounts): **~$94.6 Million**
+* Discounts have a significant impact on final revenue and purchasing behavior.
 * The dataset contains **100,000 sales transactions** across multiple countries and product categories.
 * Product demand is distributed across four major categories, providing a balanced product portfolio.
-* Customer purchases originate from multiple device types, highlighting the importance of a multi-device shopping experience.
-* Discounts have a significant impact on final revenue and purchasing behavior.
-* Customer reviews provide valuable insight into product satisfaction and overall shopping experience.
+* All referral sources and device types are nearly equally distributed — no single channel dominates
+* Customer base is geographically diverse across 6 countries with balanced gender representation
+* Review scores average 4.0/5, suggesting solid customer satisfaction across the board
 
 ---
 
 ## Conclusion
-This analysis provides a comprehensive overview of e-commerce sales performance, customer behavior, product demand, and marketing effectiveness. The insights generated from this project can help support strategic decision-making related to **pricing strategies, product management, customer targeting, and revenue optimization**.
+This analysis provides a comprehensive view of e-commerce operations across customers, products, transactions, and marketing channels. The data reveals a highly balanced business where no single category, country, referral source, or device type dominates. The most notable finding is the high discount application rate (~50%), which warrants deeper investigation into its impact on profitability and long-term customer behavior.
